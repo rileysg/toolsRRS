@@ -1,0 +1,75 @@
+# Procedure for reading papers
+
+#### 1. Aim of article screening
+
+- interesting?
+- relevant to work?
+- generally important?
+- of high quality
+- accessible
+- "meaty"
+- short
+
+#### Method: screening
+
+- Title: Skim for keywords then read for comprehension
+- Date: Will this paper age well?
+- Keywords
+
+
+#### 2. Aim: Fundamentals of the paper
+
+Question
+
+- What is it?
+- Is it real? 
+- Why not answered before?
+
+#### Method: fundamentals
+
+- Abstract: skim for keywords, then read for comprehension
+- Intro: 
+    - main idea (may be best described here)
+    - references (read if they have titles), get support for interpretation of central question
+
+#### 3. Guess for the logical structure of the paper
+
+- central claims:
+    - identify
+    - draw connections
+
+#### Methods: Guess for the logical structure
+
+- equations - skim
+- figures - skim
+- discussion - read first few paragraphs and last few paragraphs
+
+#### 4. Logical structure of the paper
+
+- Methodology:
+    - what was observed?
+    - What are the operating characteristics of this observation?
+    - How does the method behave relative to alternatives?
+- Pinpointing a model:
+    - ideally what is observed/known?
+    - what are the physical limits at play?
+
+#### 4. Method: Logical structure of the paper
+
+- skim the abstract and intro again
+- skim the methods section
+- read results
+- read discussion
+- study figures and tables
+
+
+#### 5. Increase understanding
+
+- Look up unfamiliar concepts
+- Check references
+- Question things you don't understand
+- Make note of other potential questions
+
+__Bibliography:__ This approach combines bits and pieces from several places.
+I found this [page](https://web.stanford.edu/~siegelr/readingsci.htm) by Robert Siegel useful.
+Most of the above questions were asked by Ned Wingreen as he taught his 2015 course _methods and logic in quantitative biology_.
