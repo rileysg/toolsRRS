@@ -1,0 +1,41 @@
+# Aims
+
+- summarize
+- evaluate show connections between ideas
+
+# Criterion for success
+
+- Completeness
+- Accuracy
+
+# Questions to answer
+
+- What are the central ideas
+- What are the relationships between the key ideas?
+- What are the current theories/frameworks?
+- Where is evidence inconsistent/lacking?
+- Which methods are good? Bad?
+- What are the opportunities for future research
+
+# Pointers
+
+- Don't try to read everything
+- Write while reading. Don't save all the writing until the end of the project.
+- Don't organize the review in terms of authors or dates
+
+# Scope
+
+- Make sure to read and write with a purpose
+- Evaluating a review
+    - What questions did the author address? What is outside the scope of the review?
+    - Is the organization of the review good?
+    - What makes the review good or bad?
+
+- Reproducibility
+
+- Keep track of search terms and databases
+
+# Reference (for above)
+ 
+This content is directly taken from these [lecture notes](https://ocw.mit.edu/courses/biology/7-16-experimental-molecular-biology-biotechnology-ii-spring-2005/scientific-comm/lec05_mpominirev.pdf).
+A less helpful resource is [here](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003149).
